@@ -6,7 +6,7 @@ Installation
 ------------
 
 ``` bash
-git clone git://github.com/itsdf/dotfiles ~/dotfiles
+git clone https://github.com/itsdf/dotfiles ~/dotfiles
 cd ~/dotfiles
 ./makesymlinks.sh
 ```
