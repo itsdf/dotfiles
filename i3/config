@@ -118,9 +118,9 @@ bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute 0 toggle
 #bindsym XF86AudioPrev exec playerctl previous
 
 #Easier workspace renaming
-set $tag1 "1:"
-set $tag2 "2:"
-set $tag3 "3:"
+set $tag1 "1:"
+set $tag2 "2:"
+set $tag3 "3:"
 set $tag4 "4:"
 set $tag5 "5:"
 set $tag6 "6:"
