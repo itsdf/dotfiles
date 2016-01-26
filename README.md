@@ -1,6 +1,7 @@
-# dotfiles
+dotfiles
+===
 
-My dotfiles :_)
+My dotfiles.
 
 Installation
 ------------
