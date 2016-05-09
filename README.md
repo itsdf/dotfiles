@@ -1,7 +1,7 @@
 :wrench: .files
 ===
 
-My .files
+.files
 
 Installation
 ===
